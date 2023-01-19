@@ -1,0 +1,6 @@
+VAT,NAME,SURNAME,EMAIL,USERNAME,PASSWORD,PHONE NUMBER,ADDRESS,ROLE
+1580011110,Nick,Thanos,123@email.com,Nthanos,1234,5552222,Athens,PROPERTY_OWNER
+1055555666,Nasos,Kokou,44@email.com,Nkokou,1234,336666999,Athens,PROPERTY_OWNER
+1254000000,Kwstas,Katsios,1233@email.com,Kkatsios,1234,2555444,Athens,PROPERTY_OWNER
+1255444477,Maria,Petrou,dasdas@email.com,Mpetrou,1234,66999888,Athens,PROPERTY_OWNER
+1222255555,Anestis,Giannoulis,giannoulis@technikon.com,admin,admin,1112223,Athens,ADMIN
